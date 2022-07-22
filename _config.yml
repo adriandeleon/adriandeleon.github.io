@@ -62,6 +62,9 @@ author:
   avatar : "/assets/images/profile.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/adriandeleonsaldivar"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/grokthecode"

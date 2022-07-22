@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Adrian's Blog
-email:
+title: Adrián's Blog
+email: adrian@adriandeleon.me
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -29,9 +29,9 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Monterrey # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Adrian De Leon"
+  name   : "Adrián De León"
   avatar : "/assets/images/profile.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
@@ -91,7 +91,7 @@ defaults:
       author_profile: true
       read_time: false
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:

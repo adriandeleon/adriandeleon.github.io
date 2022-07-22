@@ -1,9 +1,9 @@
 ---
-title: "Awsome Image and code"
+title: "Awesome Image and code"
 categories:
-- Blog
-  tags:
-- Image
+   - Blog
+tags:
+   - Image
 ---
 
 This is an awesome image:

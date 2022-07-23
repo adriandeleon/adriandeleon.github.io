@@ -3,7 +3,7 @@ title: "Live Templates Test"
 categories:
    - Blog
 tags:
-- IDE IntelliJ Jetbrains
+- IDE, IntelliJ, Jetbrains
 ---
 
 This is a Intellij Live template test

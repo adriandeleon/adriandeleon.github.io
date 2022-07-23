@@ -8,4 +8,4 @@ tags:
 
 This is a Intellij Live template test
 
-![Live Templates image](/assets/posts/images/live.templates.png)
+![Live Templates image](/assets/posts/images/live-templates.png)

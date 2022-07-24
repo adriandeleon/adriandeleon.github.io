@@ -62,9 +62,6 @@ author:
   avatar : "/assets/images/profile.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Resume"
-      icon: "fab fa-fw fa-file-text"
-      url: "/assets/CV/Adrian_De_Leon_Resume_EN.pdf"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/adriandeleonsaldivar"
@@ -74,6 +71,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/adriandeleon"
+    - label: "Resume"
+      icon: "fab fa-fw fa-file-text-do"
+      url: "/assets/CV/Adrian_De_Leon_Resume_EN.pdf"
 
 footer:
 

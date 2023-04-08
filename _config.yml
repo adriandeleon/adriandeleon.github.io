@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Adrián De León"
-  avatar : "/assets/images/profile.jpg"
+  avatar : "/assets/images/profile_new.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "LinkedIn"

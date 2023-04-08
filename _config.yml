@@ -72,7 +72,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/adriandeleon"
     - label: "Resume"
-      icon: "fa-solid fa-file-pdf"
+      icon: "fas fa-fw fa-link"
       url: "/assets/CV/Adrian_De_Leon_Resume_EN.pdf"
 
 footer:
